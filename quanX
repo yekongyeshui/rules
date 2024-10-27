@@ -1,0 +1,197 @@
+host-suffix, cdn-msp.jmcomic-zzz.one, Others
+host-suffix, ak.sail-horizon.com, Outside
+host-suffix, app-analytics-services.com, Others
+host-suffix, handjobhub.com, Others
+host-suffix, fapcat.com, Others
+host-suffix, 4s47.com, Others
+host-suffix, gps.crtslt.com, Outside
+host-suffix, bbs.crtslt.com, Outside
+host-suffix, bbs.crtslt.net, Outside
+host-suffix, xtits.xxx, Outside
+host, ios-app-config.media-imdb.com, Others
+host-suffix, imdb.com, Others
+host-suffix, chatgpt.com, chatgpt
+host-suffix, fapnado.com, Outside
+host-suffix, abjav.com, Others
+host-suffix, vivatube.com, Outside
+host-suffix, txxxporn.tube, Outside
+host-suffix, pornwhite.com, Outside
+host-suffix, wankoz.com, Outside
+host-suffix, cdn.yesvids.com, Outside
+host-suffix, m.yesvids.com, Outside
+host-suffix, nuvid.com, Outside
+host-suffix, viptube.com, Outside
+host-suffix, xvideos-cdn.com, Outside
+host-suffix, pervclips.com, Outside
+host-suffix, abxxx.com, Outside
+host-suffix, rou.video, Outside
+host-suffix, sdeweb.hkcsl.com, Mainland
+host-suffix, clubsim.com.hk, Mainland
+host-suffix, bbs.north-plus.net, Others
+host-suffix, 44yydstxt226.com, direct
+host-suffix, babestube.com, Outside
+host-suffix, ixxx.com, Others
+host-suffix, 18comic.vip, Others
+host, zhaoze.vip, Others
+host-suffix, shazam.com, Apple
+host-suffix, rockstar-api.arkoselabs.cn, Others
+host-suffix, 4kporn.xxx, Others
+host, jable.tv, Others
+host-suffix, api.arbor.news, Others
+host-suffix, duolingo.cn, Outside
+host-suffix, support.ubi.com,ubisoft
+host-suffix, public-ubiservices.ubi.com,ubisoft
+host-suffix, ubisoft.com,ubisoft
+host-suffix, store.ubi.com,ubisoft
+host-suffix, ecom-cdn.ubi.com,ubisoft
+host-suffix, cdn.ubi.com,ubisoft
+host-suffix, chtbl.com, Apple
+host-suffix, media.fireside.fm, Apple
+host-suffix, aphid.fireside.fm, Apple
+host-suffix, 2yydstxt226.com, Mainland
+host-suffix, dybz999.com, Mainland
+host-suffix, laowang.vip, Others
+host, o33249.ingest.sentry.io, chatgpt
+host-suffix, office365.com, Microsoft
+host-suffix, missav.com, Others
+host-suffix, logincdn.msauth.net, Microsoft
+host-suffix, acctcdn.msauth.net, Microsoft
+host-suffix, az15297.vo.msecnd.net, Microsoft
+host-suffix, lcdn.drtuber.com, Outside
+host-suffix, technews.tw, Others
+host-suffix, platform.openai.com, chatgpt
+host-suffix, inews.hket.com, Others
+host-suffix, cdn.openai.com, chatgpt
+host-suffix, chat.openai.com, chatgpt
+host-suffix, auth0.openai.com, chatgpt
+host-suffix, 8yydstxt226.com, direct
+host-suffix, api.nike.com, Others
+host-suffix, accounts.nike.com, Others
+host-suffix, apple.imap.mail.yahoo.com, Mainland
+host-suffix, m.hotmail.com, Mainland
+host-suffix, 9yydstxt226.com, direct
+host-suffix, etnet.com.hk, Mainland
+host-suffix, bochk.com, Mainland
+host-suffix, dybz22222.com, direct
+host-suffix, assets-cdn.jable.tv, Others
+host-suffix, gateway.discord.gg, Others
+host-suffix, indonesia-rcv4.n0909.com, pikpak
+host-suffix, hk01.com, proxy
+host-suffix, theporndude.com, proxy
+host-suffix, discord.com, Others
+host-suffix, mypikpak.net, pikpak
+host-suffix, images-ext-1.discordapp.net, Outside
+host-suffix, mypikpak.com, pikpak
+HOST-SUFFIX,71.am,iQIYI
+HOST-SUFFIX,71.am.com,iQIYI
+HOST-SUFFIX,71edge.com,iQIYI
+HOST-SUFFIX,71edge.net,iQIYI
+HOST-SUFFIX,aianno.cn,iQIYI
+HOST-SUFFIX,aianno.com,iQIYI
+HOST-SUFFIX,aiqiyicloud-mgmt.com,iQIYI
+HOST-SUFFIX,aiqiyicloud.com,iQIYI
+HOST-SUFFIX,aiqiyicloud.net,iQIYI
+HOST-SUFFIX,baiying.com,iQIYI
+HOST-SUFFIX,gitv.cn,iQIYI
+HOST-SUFFIX,gitv.tv,iQIYI
+HOST-SUFFIX,ibkstore.com,iQIYI
+HOST-SUFFIX,iq.com,iQIYI
+HOST-SUFFIX,iqiyi.com,iQIYI
+HOST-SUFFIX,iqiyi.demo.uwp,iQIYI
+HOST-SUFFIX,iqiyiedge.com,iQIYI
+HOST-SUFFIX,iqiyiedge.net,iQIYI
+HOST-SUFFIX,iqiyipic.com,iQIYI
+HOST-SUFFIX,jiangbing.cn,iQIYI
+HOST-SUFFIX,pps.tv,iQIYI
+HOST-SUFFIX,ppsimg.com,iQIYI
+HOST-SUFFIX,ppstream.cn,iQIYI
+HOST-SUFFIX,ppstream.com,iQIYI
+HOST-SUFFIX,ppstream.com.cn,iQIYI
+HOST-SUFFIX,ppstream.net,iQIYI
+HOST-SUFFIX,ppstream.net.cn,iQIYI
+HOST-SUFFIX,ppsurl.com,iQIYI
+HOST-SUFFIX,qiyi.cn,iQIYI
+HOST-SUFFIX,qiyi.com,iQIYI
+HOST-SUFFIX,qiyipic.com,iQIYI
+HOST-SUFFIX,qy.com,iQIYI
+HOST-SUFFIX,qy.net,iQIYI
+HOST-SUFFIX,suike.cn,iQIYI
+USER-AGENT,PPStream*,iQIYI
+USER-AGENT,QIYI*,iQIYI
+USER-AGENT,QYPlayer*,iQIYI
+USER-AGENT,iQIYI*,iQIYI
+host-suffix, community.cloudflare.steamstatic.com, steam
+host-suffix, store.cloudflare.steamstatic.com, steam
+host-suffix, avatars.cloudflare.steamstatic.com, steam
+host-suffix, steamstatic.com, steam
+host-suffix, 23xstxt.com, Mainland
+host-suffix, lwxs.com, Mainland
+host-suffix, 256shuku.com, Mainland
+host-suffix, xiaoqiangxs.org, Mainland
+host-suffix, img.biqutxt.com, Mainland
+host-suffix, m.biqutv.com, Mainland
+host-suffix, chjhjx.com, Mainland
+host-suffix, szyangxiao.com, Mainland
+host-suffix, m.qu-la.com, Mainland
+host-suffix, ucshuku.com, Mainland
+host-suffix, maxreader.net, Mainland
+host-suffix, nhentai.net, proxy
+host-suffix, tpc.googlesyndication.com, proxy
+host-suffix, xhamster.com, proxy
+host-suffix, rocketgirls.space, proxy
+host-suffix, seagm.com, direct
+host-suffix, snssdk.com, Mainland
+host-suffix, imobileweb.alipay.hk, direct
+HOST-SUFFIX,booth.pm,Pixiv
+HOST-SUFFIX,fanbox.cc,Pixiv
+HOST-SUFFIX,pixiv.cat,Pixiv
+HOST-SUFFIX,pixiv.co.jp,Pixiv
+HOST-SUFFIX,pixiv.me,Pixiv
+HOST-SUFFIX,pixiv.net,Pixiv
+HOST-SUFFIX,pixiv.org,Pixiv
+HOST-SUFFIX,pximg.net,Pixiv
+host-suffix, c.apple.news, Apple
+host-suffix, store.steampowered.com, steam
+host-suffix, iclientgw.alipay.hk, direct
+host-suffix, render.alipay.hk, direct
+host-suffix, ihezu.fun, direct
+host-suffix, disney.demdex.net, Disney+
+USER-AGENT,Disney+*,Disney+
+HOST-SUFFIX,bamgrid.com,Disney+
+HOST-SUFFIX,disneyplus.com,Disney+
+HOST-SUFFIX,disney-plus.net,Disney+
+HOST-SUFFIX,dssott.com,Disney+
+HOST,cdn.registerdisney.go.com,Disney+
+host-suffix, notability.com, direct
+host-suffix, mirror.chromaso.net, proxy
+host-suffix, biliapi.com, 哔哩哔哩
+host-suffix, biliapi.net, 哔哩哔哩
+host-suffix, bilibili.com, 哔哩哔哩
+host-suffix, bilibili.tv, 哔哩哔哩
+host-suffix, bilivideo.com, 哔哩哔哩
+host-suffix, wmapi.meituan.com, direct
+host-suffix, dreport.meituan.net, direct
+host-suffix, app-measurement.com, 动画疯
+host-suffix, whoer.net, proxy
+host-suffix, viblast.com, 动画疯
+host-suffix, digicert.com, 动画疯
+host-suffix, gvt1.com, 动画疯
+host-suffix, hinet.net, 动画疯
+host-suffix, bahamut.com.tw, 动画疯
+host-suffix, gamer.com.tw, 动画疯
+host-suffix, hkreadingcity.net, proxy
+host-suffix, m.uczzd.cn, direct
+host-suffix, app.oepay.octopus-cards.com, direct
+host-suffix, www.octopuscards.com, direct
+host-suffix, local, direct
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 17.0.0.0/8, direct
+ip-cidr, 100.64.0.0/10, direct
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 192.168.0.0/16, direct
+geoip, cn, Mainland
+final, Others
+[task_local]
+
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=流媒体-解锁查询, img-url=checkmark.seal.system, enabled=true
