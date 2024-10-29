@@ -1,4 +1,5 @@
 rules:
+  - DOMAIN-SUFFIX,mydramalist.com:443,🐟 漏网之鱼
   - DOMAIN-SUFFIX,img.4gamers.com.tw,🐟 漏网之鱼
   - DOMAIN-SUFFIX,puku-dist.4gamers.com.tw,🐟 漏网之鱼
   - DOMAIN-SUFFIX,imdb-video.media-imdb.com,🔰 节点选择
