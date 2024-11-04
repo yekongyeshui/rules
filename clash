@@ -1,4 +1,9 @@
 rules:
+  - DOMAIN-SUFFIX,d1z2jf7jlzjs58.cloudfront.net,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,cdn-gl.imrworldwide.com,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,d3h0wybtovte4j.cloudfront.net,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,us.tags.newscgp.com,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,wiki.gg,🐟 漏网之鱼
   - DOMAIN-SUFFIX,mydramalist.com:443,🐟 漏网之鱼
   - DOMAIN-SUFFIX,img.4gamers.com.tw,🐟 漏网之鱼
   - DOMAIN-SUFFIX,puku-dist.4gamers.com.tw,🐟 漏网之鱼
