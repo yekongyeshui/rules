@@ -1,4 +1,64 @@
 rules:
+  - DOMAIN-SUFFIX,dka575ofm4ao0.cloudfront.net,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,nnyy.in,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,i.mij.rip,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,img.imgdd.com,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,img.imgdd.com,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,i.miji.bid,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,linux.do,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,perplexity.ai,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,qwen.ai,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,grok.com,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,d34r8q7sht0t9k.cloudfront.net,🔰 节点选择
+  - DOMAIN-SUFFIX,ttvnw.net,Twitch
+  - DOMAIN-SUFFIX,live-video.net,Twitch
+  - DOMAIN-SUFFIX,jtvnw.net,Twitch
+  - DOMAIN-SUFFIX,twitchsvc.net,Twitch
+  - DOMAIN-SUFFIX,twitchcdn.net,Twitch
+  - DOMAIN-SUFFIX,ext-twitch.tv,Twitch
+  - DOMAIN-SUFFIX,twitch.tv,Twitch
+  - DOMAIN,wmff.warnermediacdn.com,max
+  - DOMAIN-SUFFIX,cinemax.com,max
+  - DOMAIN-SUFFIX,discomax.com,max
+  - DOMAIN-SUFFIX,hbomax.com,max
+  - DOMAIN-SUFFIX,hbomaxcdn.com,max
+  - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net,max
+  - DOMAIN-SUFFIX,hbonow.com,max
+  - DOMAIN-SUFFIX,max.com,max
+  - DOMAIN-SUFFIX,maxgo.com,max
+  - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com,动画疯
+  - DOMAIN-SUFFIX,assets.grok.com,🔰 节点选择
+  - DOMAIN-SUFFIX,imp-adedge.i-mobile.co.jp,🔰 节点选择
+  - DOMAIN-SUFFIX,spnativeapi-tls.i-mobile.co.jp,🔰 节点选择
+  - DOMAIN-SUFFIX,d3888oxgux3fey.cloudfront.net,🔰 节点选择
+  - DOMAIN-SUFFIX,d2hjvmnsrtrg65.cloudfront.net,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,laowang.vip,🔰 节点选择
+  - DOMAIN-SUFFIX,api.siliconflow.cn,🔰 节点选择
+  - DOMAIN-SUFFIX,hoyoverse.com,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,hoyolab.com,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,web-cdn.bsky.app,🔰 节点选择
+  - DOMAIN-SUFFIX,gx-target-experiments-frontend-api.gx.nvidia.cn,🔰 节点选择
+  - DOMAIN-SUFFIX,files.oaiusercontent.com,🔰 节点选择
+  - DOMAIN-SUFFIX,www.4s47.com,🔰 节点选择
+  - DOMAIN-SUFFIX,events.gx.nvidia.cn,🔰 节点选择
+  - DOMAIN-SUFFIX,fonts.googleapis.com,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,access.pikpakdrive.com,pikpak
+  - DOMAIN-SUFFIX,access.pikpak.me,pikpak
+  - DOMAIN-SUFFIX,bbs.crtslt.com,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,bbs.crtslt.net,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,events.bsky.app,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,portal101.cn,deepseek
+  - DOMAIN-SUFFIX,castatic.fengkongcloud.cn,deepseek
+  - DOMAIN-SUFFIX,volces.com,deepseek
+  - DOMAIN-SUFFIX,deepseek.com,deepseek
+  - DOMAIN-SUFFIX,missav.ws,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,d2v02itv0y9u9t.cloudfront.net,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,cdn2.ke-mi.vip,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,steamcontent.com,steam
+  - DOMAIN-SUFFIX,i.meee.com.tw,动画疯
+  - DOMAIN-SUFFIX,openai.com,chatgpt
+  - DOMAIN-SUFFIX,cdn2.onlyfans.com,🐟 漏网之鱼
+  - DOMAIN-SUFFIX,d35aaqx5ub95lt.cloudfront.net,🐟 漏网之鱼
   - DOMAIN-SUFFIX,d1z2jf7jlzjs58.cloudfront.net,🐟 漏网之鱼
   - DOMAIN-SUFFIX,cdn-gl.imrworldwide.com,🐟 漏网之鱼
   - DOMAIN-SUFFIX,d3h0wybtovte4j.cloudfront.net,🐟 漏网之鱼
