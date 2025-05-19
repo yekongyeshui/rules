@@ -1,3 +1,53 @@
+host-suffix, inkcap.us-east.host.bsky.network, Others
+host-suffix, threads.com, instagram
+host-suffix, threads.net, instagram
+host-keyword, instagram.com, instagram
+host-suffix, fbcdn.net, instagram
+host-suffix, facebook.com, instagram
+host-suffix, instagram.com, instagram
+host-suffix, cdninstagram.com, instagram
+host-suffix, grok.com, Others
+host-suffix, qwen.ai, Others
+host-suffix, twitchsvc.net, Twitch
+host-suffix, twitchcdn.net, Twitch
+host-suffix, ttvnw.net, Twitch
+host-suffix, live-video.net, Twitch
+host-suffix, jtvnw.net, Twitch
+host-suffix, ext-twitch.tv, Twitch
+host-suffix, twitch.tv, Twitch
+host-suffix, cinemax.com, max
+host, wmff.warnermediacdn.com, max
+user-agent, HBOMAX*, max
+HOST-SUFFIX, hbomax.com,max
+HOST-SUFFIX, hbomaxcdn.com,max
+HOST-SUFFIX, hbomaxdash.s.llnwi.net,max
+host-suffix, api.discomax.com, max
+HOST-SUFFIX, max.com,max
+HOST-SUFFIX, maxgo.com,max
+HOST-SUFFIX, out053a3bejgh7t0phqa0csou.litix.io,max
+host-suffix, video.cdn.bsky.app, Others
+host-suffix, astin-cowing.mushroomtrack.com, Others
+host-suffix, hoyoverse.com, Others
+host-suffix, hoyolab.com, Others
+host-suffix, fp-it.fengkongcloud.com, deepseek
+host-suffix, volces.com, deepseek
+host-suffix, chat.deepseek.com, deepseek
+host-suffix, missav.ws, Others
+host-suffix, masmao-toera.mushroomtrack.com, Outside
+host-suffix, anono-cloneing.mushroomtrack.com, Others
+host-suffix, prod.ivs-device-config.live-video.net, Others
+host-suffix, static.convertio.co, Outside
+host-suffix, uptn.nv7s.com, Outside
+host-suffix, openai.com, chatgpt
+host-suffix, sora.com, chatgpt
+host-suffix, js.stripe.com, Outside
+host-suffix, imdb-video.media-imdb.com, Others
+host-suffix, jizzberry.com, Others
+host-suffix, cdn2.onlyfans.com, Outside
+host-suffix, public.onlyfans.com, Others
+host-suffix, go.porn, Outside
+host-suffix, sexpester.com, Outside
+host-suffix, bbc.mp-pxcdn.com, Outside
 host-suffix, cdn-msp.jmcomic-zzz.one, Others
 host-suffix, ak.sail-horizon.com, Outside
 host-suffix, app-analytics-services.com, Others
